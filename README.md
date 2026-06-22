@@ -1,4 +1,4 @@
-UTILITY-SERVICE PROJECT
+MULTITENANT ELECTRICITY SERVICE PROVIDERS PLATFORM 
 
     A spring-boot backend application that is made to demonstrate the development including authentication, 
     multi-tenancy, database-migrations, etc.
